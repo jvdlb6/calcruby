@@ -1,6 +1,6 @@
 # 🧮 Calculadora em Ruby
 
-Este projeto é uma calculadora desenvolvida como parte de um exercício de um curso de Ruby.  
+Este projeto é uma calculadora desenvolvida como parte de um exercício de um curso de Ruby.
 O objetivo principal é praticar:
 
 - Entrada e validação de dados do usuário
